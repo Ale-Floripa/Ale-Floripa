@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ale-Floripa
-- 👀 I’m interested in JavaScript, NODE, MongoDB, Rreact Native, HTML, CSS
+- 👀 I’m interested in JavaScript, NODE, MongoDB, Rreact JS, HTML, CSS
 - 🌱 I’m currently learning JavaScript, Node, Mongo, HTML, CSS
 - 📫 How to reach me blastcode30@gmail.com
 
